@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataManagement</string>
+    <string name="welcome_text_title"><b>Welcome to\nReady To Travel</b></string>
+    <string name="welcome_text_body">Signup with facebook for the most fulfilling trip planning experience with us!</string>
+    <string name="form_text_title"><b>Almost there!</b></string>
+    <string name="form_text_body">Complete the form below to create your Ready To Travel Account.</string>
+    <string name="form_text_mandatory">*Mandatory</string>
+</resources>
